@@ -15,5 +15,5 @@ This project is a simple automated security log analyzer that parses log files a
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/automated-security-log-analyzer.git
+   git clone https://github.com/AsadAftabMughal/automated-security-log-analyzer.git
 
